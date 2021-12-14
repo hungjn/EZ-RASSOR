@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - mainline
-      - unity-dev
   pull_request:
     branches:
       - mainline
